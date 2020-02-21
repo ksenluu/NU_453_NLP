@@ -21,7 +21,7 @@ The NLP modeling will incorporate a variety of scripts and/or Jupyter notebooks 
 
 GitHub credits:
 
-Daniel Bashir, db7894 / sentiment-of-the-union
+Daniel Bashir, https://github.com/db7894/sentiment-of-the-union
 
-Shayne, shngli / SOTU-mining 
+Shayne, https://github.com/shngli/SOTU-mining
 
